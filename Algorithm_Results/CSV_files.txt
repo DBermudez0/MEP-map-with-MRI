@@ -1,0 +1,103 @@
+				Able to classify and map (SUCESSFUL)
+									 							 			            Accuracy                  
+	        hand map             forearm map          Threshold values
+001-U-POST.csv  0.95                    0.84                    0.3
+001-U-PRE.csv   0.97                    0.68                    0.3
+003-A-POST.csv   -                        -                      -   
+003-A-PRE.csv    -                        -                      - 
+003-U-POST.csv   -                        -                      -
+003-U-PRE.csv   0.78	                0.76                    0.3
+006-U-POST.csv  0.89                    0.88                    0.3
+006-U-PRE.csv   0.86	                0.92                    0.4                Hand Fail: 16; Hand Success: 84 percentage of succ:84%
+007-A-POST.csv  0.61	                0.54                    0.3          Forearm Fail: 13; Forearm Success: 87 percentage of succ:87%
+007-A-PRE.csv   0.88                    0.81                    0.3
+007-U-POST.csv  0.83                    0.67                    0.3
+007-U-PRE.csv   0.93                    1.00                    0.3
+008-A-POST.csv  0.40                    0.88                    0.3
+008-A-PRE.csv   0.80                    0.62                    0.3
+008-U-POST.csv  0.68                    0.63                    0.3
+008-U-PRE.csv   0.67                    0.66                    0.3
+010-A-POST.csv  0.60                    0.60                    0.4
+010-A-PRE.csv     -                       -                      -
+010-U-POST.csv  1.00   	                0.56                    0.1	 
+010-U-PRE.csv   0.92                    0.61                    0.3
+012-A-POST.csv  0.60                    0.79                    0.4
+012-A-PRE.csv     -                       -                      -
+012-U-POST.csv  0.79                    0.44                    0.3                    
+012-U-PRE.csv   0.96                    0.83                    0.3    
+013-A-POST.csv  0.93                    0.82                    0.3
+013-A-PRE.csv   0.88                    0.83                    0.3
+013-U-POST.csv  1.00                    0.93                    0.3
+013-U-PRE.csv   0.64                    0.68                    0.3
+017-A-POST.csv  0.00                    0.82                    0.7
+017-A-PRE.csv   0.81                    0.93                    0.3
+017-U-POST.csv  0.90                    0.68                    0.3
+017-U-PRE.csv     -                       -                      -
+018-A-POST.csv  0.86                    0.44                    0.3
+018-A-PRE.csv   0.46                    0.79                    0.3
+018-U-POST.csv  0.73                    0.50                    0.4
+018-U-PRE.csv   0.88                    0.50                    0.4
+019-U-POST.csv  0.89                    0.60                    0.3
+019-U-PRE.csv   0.80                    0.81                    0.3
+020-A-POST.csv  0.84                    0.88                    0.6
+020-A-PRE.csv   0.62                    0.86                    0.4
+020-U-POST.csv  0.75                    0.50                    0.3
+020-U-PRE.csv   0.69                    0.81                    0.3
+022-A-POST.csv  0.84                    0.44                    0.3
+022-A-PRE.csv   0.88                    0.83                    0.3
+022-U-POST.csv  0.75                    1.00                    0.1
+022-U-PRE.csv   0.81                    0.64                    0.3
+024-A-POST.csv  0.90                    0.66                    0.3
+024-A-PRE.csv   0.80                    1.00                    0.3
+024-U-POST.csv  0.94                    0.48                    0.3
+024-U-PRE.csv   0.62                    0.47                    0.3
+027-A-PRE.csv     -                       -                      -
+027-U-POST.csv  0.81                    0.67                    0.3
+027-U-PRE.csv     -                       -                      -
+028-A-POST.csv  0.84                    0.79                    0.3
+028-A-PRE.csv     -                      -         (samples of 4 (Hand) and 2 (Forearm))
+028-U-POST.csv  0.82                    0.89                    0.3
+028-U-PRE.csv     -                      -                       -
+029-A-POST.csv    -                     0.67               Forearm:0.3
+029-A-PRE.csv   0.83                    0.69                    0.3
+029-U-POST.csv  0.82                    0.53                    0.3
+029-U-PRE.csv   0.80                    0.68                    0.3  
+030-A-POST.csv  0.80                    0.92                    0.3   
+030-A-PRE.csv   0.82                    0.65                    0.4
+030-U-POST.csv  0.81                    0.75                    0.3    
+032-A-POST.csv    -                       -                       -  
+032-A-PRE.csv   0.63                    0.62             Hand:0.3 Forearm:0.5
+032-U-POST.csv  0.56                    0.55                    0.3
+032-U-PRE.csv   0.55                    0.83              Hand:0.3 Forearm:0.5
+034-A-POST.csv  0.44                    0.62                    0.3
+034-A-PRE.csv   0.93                    0.59                    0.3
+034-U-POST.csv  0.70                    0.50                    0.3    
+034-U-PRE.csv     -                       -                      -
+036-A-POST.csv  0.86                    0.65                    0.3
+036-A-PRE.csv   0.46                    0.46              Hand:0.3 Forearm:0.8
+036-U-POST.csv  0.90                    0.97                    0.3
+036-U-PRE.csv   0.64                    0.76                    0.3
+037-U-POST.csv    -                     0.79              (sample of 1 (Hand)) Forearm:0.3
+037-U-PRE.csv   1.00                    0.88                    0.3  
+039-U-POST.csv  0.68                    0.71                    0.3
+039-U-PRE.csv   0.55                    0.79                    0.3
+041-A-POST.csv  0.71                    0.41                    0.3
+041-A-PRE.csv   0.83                    0.87                    0.3
+041-U-POST.csv  0.78                    0.84               Hand:0.3 Forearm:0.2
+041-U-PRE.csv   0.72                    1.00               Hand:0.3 Forearm:0.2
+046-A-POST.csv  0.62                    0.74               Hand:0.3 Forearm:0.2
+046-A-PRE.csv    -                      0.68                  Forearm:0.3
+046-U-POST.csv  0.58                    0.68                    0.3
+046-U-PRE.csv   0.86                    0.42               Hand:0.3 Forearm:0.2
+047-A-POST.csv  0.81                    0.65                    0.3
+047-A-PRE.csv   0.86                    0.57                    0.3
+047-U-POST.csv  0.71                    1.00                    0.3
+047-U-PRE.csv     -                       -                      -
+048-A-POST.csv  0.82                    0.57                    0.3
+048-A-PRE.csv   0.57                    0.68               Hand:0.3 Forearm:0.2
+048-U-POST.csv  0.67                    0.72               Hand:0.4 Forearm:0.3 (hand sample:17)
+048-U-PRE.csv   0.64                    0.62                    0.3
+049-A-POST.csv  0.95                    0.52                    0.3
+049-A-PRE.csv   0.85                    0.49                    0.3
+049-U-POST.csv  0.62                    0.70                    0.3
+049-U-PRE.csv   0.62                    0.47                    0.3
