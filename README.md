@@ -20,5 +20,5 @@ Implementation of Machine Learning Binary Classification for Motor Evoked Potent
  <img src="/images/Normalized Discritize Map (001_U_Post).PNG" width="400"/> 
 
  <embed src="/images/BME Day poster _final(the one sending to Dr. Q).pdf" width="400" height="400"></embed>
-
+<image src="/images/BME Day poster _final(the one sending to Dr. Q).pdf"/>
 
